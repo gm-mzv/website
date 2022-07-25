@@ -1,3 +1,11 @@
 /* You can customize theme styles here */
 .ghsize {width: 30%;}
 .hans{margin-right:16px;width:52px;height:52px;border-radius:100%}
+@font-face{font-family: quicksand;
+    src:url(../fonts/quicksand/quicksand_light.woff) format("woff"),
+    url(../fonts/quicksand/quicksand_light.woff2) format("woff2");
+    font-weight:400;font-style:normal}
+
+@font-face{font-family: nalieta;
+    src:url(../fonts/nalieta/Nalieta.woff) format("woff");    
+    font-weight:400;font-style:normal}
